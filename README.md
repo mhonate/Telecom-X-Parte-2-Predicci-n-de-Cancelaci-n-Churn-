@@ -66,3 +66,7 @@ principales factores que influyen en la cancelación.
 Estrategias de retención
 
 
+## Cómo usar el Colab
+Cargue el archivo Telecom_X_parte_2.ipynb en Google colab
+Suba el archivo csv datos_tratado.csv
+Replique paso a paso las secuencias de código del colab
